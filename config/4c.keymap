@@ -54,7 +54,7 @@
 &kp TILDE  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4        &kp NUMBER_5    &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9   &kp NUMBER_0    &kp EQUAL
 &kp TAB    &kp Q         &kp W         &kp E         &kp R               &kp T           &kp Y         &kp U         &kp I         &kp O          &kp P           &kp ENTER
 &lt 1 ESC  &mt LSHIFT A  &mt LCTRL S   &mt LALT D    &mt LEFT_COMMAND F  &kp G           &kp H         &mt RCMD J    &mt RALT K    &mt RCTRL L    &mt RSHFT SEMI  &kp APOS
-&kp LCTRL  &kp Z         &kp X         &kp C         &kp V               &kp B           &kp N         &kp M         &kp COMMA     &kp PERIOD     &kp SLASH       &kp RIGHT_SHIFT
+&kp MINUS  &kp Z         &kp X         &kp C         &kp V               &kp B           &kp N         &kp M         &kp COMMA     &kp PERIOD     &kp SLASH       &kp BSLH
 &mo 3      &kp ENTER     &kp TAB       &kp LEFT_WIN  &none                                             &none         &kp LEFT_GUI  &kp BACKSPACE  &kp SPACE       &mo 2
             >;
         };
